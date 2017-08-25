@@ -10,13 +10,13 @@
 - Consider user analytics (mobile? connection?)
 - Set goals
 
+## Review
+
 ### [Thanks, Dan Mall!](https://docs.google.com/spreadsheets/d/1ifac_Z-P9IgjzVZIWPV2qdugtwJ3HA9dkhvKmPUXBLo/edit#gid=0) :grinning:
 
 - Start Render
 - Doc Complete
 - Fully Loaded
-
-## Review
 
 ## Resources
 
@@ -31,6 +31,7 @@ https://developers.google.com/speed/pagespeed/insights/
 https://developers.google.com/web/tools/lighthouse/
 
 https://www.webpagetest.org/easy (test slow connections)
+
 https://search.google.com/search-console/mobile-friendly (mobile friendly)
 
 ## Images

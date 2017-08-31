@@ -21,7 +21,7 @@ https://browserdiet.com/calories/
 - Doc Complete
 - Fully Loaded
 
-- [Speed Index](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index)]
+- [Speed Index](https://sites.google.com/a/webpagetest.org/docs/using-webpagetest/metrics/speed-index)
 
 [Resource](https://docs.google.com/spreadsheets/d/1ifac_Z-P9IgjzVZIWPV2qdugtwJ3HA9dkhvKmPUXBLo/edit#gid=0)
 

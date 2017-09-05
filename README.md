@@ -52,10 +52,10 @@ https://tools.pingdom.com/
 
 https://developers.google.com/speed/pagespeed/insights/
 
-https://developers.google.com/web/tools/lighthouse/
-
 https://www.webpagetest.org/easy (test slow connections)
 
 https://search.google.com/search-console/mobile-friendly (mobile friendly)
+
+Chrome's Lighthouse is now in Dev tools! (Audits tab)
 
 ## Images

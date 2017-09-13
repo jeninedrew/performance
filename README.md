@@ -5,9 +5,12 @@
 ### Tools
 
 http://www.performancebudget.io/
+
 https://whatdoesmysitecost.com/
+
 https://browserdiet.com/calories/
-https://github.com/pa11y/pa11y [good explainer](https://bitsofco.de/pa11y/?utm_source=frontendfocus&utm_medium=email)
+
+https://github.com/pa11y/pa11y [good explainer](https://bitsofco.de/pa11y/)
 
 ### Overview
 
@@ -42,8 +45,6 @@ https://github.com/pa11y/pa11y [good explainer](https://bitsofco.de/pa11y/?utm_s
 
 [Resource](https://www.keycdn.com/blog/web-performance-budget/)
 
-### 
-
 ## Resources
 
 http://www.webpagetest.org/ ([Docs](https://sites.google.com/a/webpagetest.org/docs/))
@@ -60,4 +61,6 @@ https://search.google.com/search-console/mobile-friendly (mobile friendly)
 
 Chrome's Lighthouse is now in Dev tools! (Audits tab)
 
-## Images
+## Read These
+
+https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3

@@ -64,3 +64,5 @@ Chrome's Lighthouse is now in Dev tools! (Audits tab)
 ## Read These
 
 https://medium.com/@fox/talk-the-state-of-the-web-3e12f8e413b3
+
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/

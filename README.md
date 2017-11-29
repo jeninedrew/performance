@@ -47,6 +47,8 @@ https://github.com/pa11y/pa11y [good explainer](https://bitsofco.de/pa11y/)
 
 ## Resources
 
+[Chrome DevTools- Performance monitor](https://hospodarets.com/chrome-devtools-performance-monitor)
+
 http://www.webpagetest.org/ ([Docs](https://sites.google.com/a/webpagetest.org/docs/))
 
 http://yslow.org/
